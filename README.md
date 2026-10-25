@@ -80,4 +80,4 @@ Skript `vytah.py` je rozdělen do čtyř logických modulů:
 
 ```
 Vytvořil Alex Solnař a Tomáš Linka
-Alex použil svoje předplatné na gemini (bohužel claude jsem koupil až dneska) a Tomáš poskytl nápady na zlepšení a ověroval data
+Alex použil svoje předplatné na gemini (bohužel claude jsem koupil až dneska) a Tomáš poskytl nápady na zlepšení a ověroval data.
